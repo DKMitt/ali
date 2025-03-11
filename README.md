@@ -186,15 +186,9 @@ Description of how to use the app
 
 Description of revisions made to the app 
 
-[ ] Dev - File and directory structure creation  - 
+[ ] Dev - Start File and directory structure  - 2025-03-11
+
 [ ] Dev - Database creation -  
-[ ] Dev - Update dependencies - 
-[ ] Dev - Website wire framing - 
-[ ] Dev - Website coding -  
-[ ] Dev - File and directory structure cleanup -  
-[ ] Dev - Final testing -  
-
-
 
 ---
 
