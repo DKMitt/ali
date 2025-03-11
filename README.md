@@ -5,7 +5,7 @@ A Daily Cost Report Application with printable reports, this is not a tutorial.
 
 
 
-__Project Status -  In Process As Of: __2025-03-11 - Starting Project
+Project Status -  In Process As Of:  2025-03-11 - Starting Project
 
 ----
 
@@ -47,13 +47,15 @@ __Project Status -  In Process As Of: __2025-03-11 - Starting Project
 
 Description of website technologies used to develop this app.
 
-- HMTL & CSS 
+- HTML & CSS 
 
 - Bootstrap 5.3.3
 
 - JavaScript
 
 - MySQL Database
+
+- PHP
 
   ​
 
@@ -74,7 +76,7 @@ __<u>devDependencies</u>__
 The process of coding this application
 
  -  Setup MySQL database, create user login and password
- -  User login system, add to database users and passwords
+ -  User login system, add to the database users and passwords
  -  User login page
  -  User profile page
  -  Password reset page
@@ -184,13 +186,13 @@ Description of how to use the app
 
 Description of revisions made to the app 
 
-[ ] Dev - File and directory structure creation  -
-[ ] Dev - Database creation - 
-[ ] Dev - Update dependencies -
-[ ] Dev - Website wire framing -
-[ ] Dev - Website coding - 
-[ ] Dev - File and directory structure cleanup - 
-[ ] Dev - Final testing - 
+[ ] Dev - File and directory structure creation  - 
+[ ] Dev - Database creation -  
+[ ] Dev - Update dependencies - 
+[ ] Dev - Website wire framing - 
+[ ] Dev - Website coding -  
+[ ] Dev - File and directory structure cleanup -  
+[ ] Dev - Final testing -  
 
 
 
