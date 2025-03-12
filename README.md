@@ -5,7 +5,7 @@ A Daily Cost Report Application with printable reports, this is not a tutorial.
 
 
 
-Project Status -  In Process As Of:  2025-03-11 - Starting Project
+Project Status -  In Process As Of:  2025-03-12 - Starting Project
 
 ----
 
@@ -26,9 +26,9 @@ Project Status -  In Process As Of:  2025-03-11 - Starting Project
 
 ### App Description
 
--  ​
+-  A standard CRUD app that records daily production for rock crushers and grade sorters
 
--  ​
+-  Print reports of daily, weekly, monthly and yearly production
 
 
 ----
