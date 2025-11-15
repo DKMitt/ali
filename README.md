@@ -1,11 +1,11 @@
 # ALI App
 
-A Daily Cost Report Application with printable reports, this is not a tutorial.
+A Daily Cost Report Application with printable reports. This is not a tutorial.
 
 
 
 
-Project Status -  In Process As Of:  2025-03-12 - Starting Project
+Project Status -   
 
 ----
 
@@ -186,7 +186,7 @@ Description of how to use the app
 
 Description of revisions made to the app 
 
-[ ] Dev - Start File and directory structure  - 2025-03-11
+[ ] Dev - Start File and directory structure
 
 [ ] Dev - Database creation -  
 
